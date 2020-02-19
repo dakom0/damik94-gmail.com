@@ -42,12 +42,21 @@ cardsInPlay.push(cards[cardID].rank);
 console.log("User flipped "+ cards[cardID].rank);
 console.log(cards[cardID].suit);
 console.log(cards[cardID].cardImage);
-
+  
 
 if (cardsInPlay.length===2){
   checkForMatch();
   }
    
 }
+
+  for (let i = 0; i < cards.length; i++) {
+let cardElement = document.createElement('img');
+cardElement.setAttribute('src', 'images/back.png');
+cardElement.setAttribute('data-id', cards[i]);
+
+}
+
+let cardElement = document.addEventListener("click", flipCard);
 flipCard(0);
 flipCard(2);
