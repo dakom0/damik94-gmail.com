@@ -1,7 +1,7 @@
 # Memory_Game
 Welcome to Memory Game where the object of the game is to turn over pairs of matching cards. 
 
-https://focused-poincare-bd81dc.netlify.app/
+https://memory-cards-game.netlify.app/
 
 # Features!
 
