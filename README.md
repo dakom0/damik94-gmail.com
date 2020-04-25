@@ -1,8 +1,6 @@
 # Memory_Game
 Welcome to Memory Game where the object of the game is to turn over pairs of matching cards. 
 
-https://memory-cards-game.netlify.app/
-
 # Features!
 
   - Creates a fun activity for memeorization.
@@ -27,7 +25,7 @@ Memory Game uses a number of open source projects to work properly:
 
 And of course GitHub.
 
-### [Try it now]()
+### [Try it now](https://memory-cards-game.netlify.app/)
 
 
 
